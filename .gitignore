@@ -1,0 +1,6 @@
+channels.txt
+channels.txt-not-found.txt
+config.json
+*.xml
+bin/*
+*.out

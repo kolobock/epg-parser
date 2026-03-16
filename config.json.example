@@ -1,0 +1,8 @@
+{
+  "input_file": "input.xml",
+  "output_file": "output.xml",
+  "channels_file": "channels.txt",
+  "log_level": "info",
+  "keep_icon": false,
+  "log_not_found_channels": false
+}
